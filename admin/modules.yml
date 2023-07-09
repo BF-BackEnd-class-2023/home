@@ -22,7 +22,7 @@ path:
     weeks: 2
     milestone: 3
     state: open
-  - name: 4. Welcome to JS
+  - name: 4. Deployment
     description: >-
       Learn how to deploy your applications to hosting platforms
     url: https://github.com/hackyourfuturebelgium/bf-workflows

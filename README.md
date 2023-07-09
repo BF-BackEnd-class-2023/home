@@ -66,13 +66,13 @@ Learn using relational database to create, update and access data
 
 Learn using non-relational database to create, update and access data
 
-### [4. Welcome to JS](https://github.com/hackyourfuturebelgium/bf-workflows): 1 week
+### [4. Deployment](https://github.com/hackyourfuturebelgium/bf-workflows): 1 week
 
-> [check-ins](https://github.com/BF-backEnd-class/home/issues/?q=milestone%3A"4.%20Welcome%20to%20JS"+label%3Acheck-in)
+> [check-ins](https://github.com/BF-backEnd-class/home/issues/?q=milestone%3A"4.%20Deployment"+label%3Acheck-in)
 > |
-> [deliverables board](https://github.com/BF-backEnd-class/home/projects/1?card_filter_query=milestone%3A"4.%20Welcome%20to%20JS"+label%3Adeliverable)
+> [deliverables board](https://github.com/BF-backEnd-class/home/projects/1?card_filter_query=milestone%3A"4.%20Deployment"+label%3Adeliverable)
 > |
-> [retros](https://github.com/BF-backEnd-class/home/issues/?q=milestone%3A"4.%20Welcome%20to%20JS"+label%3Aretro+label%3Acheck-in)
+> [retros](https://github.com/BF-backEnd-class/home/issues/?q=milestone%3A"4.%20Deployment"+label%3Aretro+label%3Acheck-in)
 > || [milestone](https://github.com/BF-backEnd-class/home/milestone/4)
 
 Learn how to deploy your applications to hosting platforms
