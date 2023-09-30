@@ -4,7 +4,7 @@ path:
   - name: 1. Node.js
     description: >-
       Use nodejs and express to build RESTful API
-    url: https://github.com/hackyourfuturebelgium/bf-workflows
+    url: https://github.com/HackYourFutureBelgium/bf-node-js
     weeks: 3
     milestone: 1
     state: open
