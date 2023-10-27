@@ -44,7 +44,7 @@ Learn to plan and build back end web applications as a team.
 
 Use nodejs and express to build RESTful API
 
-### [2. SQL Databases](https://github.com/HackYourFutureBelgium/bf-agile-development): 2 weeks
+### [2. SQL Databases](https://github.com/HackYourFutureBelgium/bf-sql): 2 weeks
 
 > [check-ins](https://github.com/BF-backEnd-class/home/issues/?q=milestone%3A"2.%20SQL%20Databases"+label%3Acheck-in)
 > |
@@ -55,7 +55,7 @@ Use nodejs and express to build RESTful API
 
 Learn using relational database to create, update and access data
 
-### [3. NoSQL Databases](https://github.com/hackyourfuturebelgium/bf-workflows): 2 weeks
+### [3. NoSQL Databases](https://github.com/HackYourFutureBelgium/bf-no-sql): 2 weeks
 
 > [check-ins](https://github.com/BF-backEnd-class/home/issues/?q=milestone%3A"3.%20NoSQL%20Databases"+label%3Acheck-in)
 > |

@@ -11,14 +11,14 @@ path:
   - name: 2. SQL Databases
     description: >-
       Learn using relational database to create, update and access data
-    url: https://github.com/HackYourFutureBelgium/bf-agile-development
+    url: https://github.com/HackYourFutureBelgium/bf-sql
     weeks: 2
     milestone: 2
     state: open
   - name: 3. NoSQL Databases
     description: >-
       Learn using non-relational database to create, update and access data
-    url: https://github.com/hackyourfuturebelgium/bf-workflows
+    url: https://github.com/HackYourFutureBelgium/bf-no-sql
     weeks: 2
     milestone: 3
     state: open
