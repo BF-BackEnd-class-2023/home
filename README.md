@@ -66,7 +66,7 @@ Learn using relational database to create, update and access data
 
 Learn using non-relational database to create, update and access data
 
-### [4. Deployment](https://github.com/hackyourfuturebelgium/bf-workflows): 1 week
+### [4. Deployment](https://github.com/HackYourFutureBelgium/bf-deployment): 1 week
 
 > [check-ins](https://github.com/BF-backEnd-class/home/issues/?q=milestone%3A"4.%20Deployment"+label%3Acheck-in)
 > |
